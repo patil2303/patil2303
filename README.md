@@ -26,7 +26,6 @@ My goal is to secure an internship or full-time role at a product-based company.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patil2303&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=patil2303&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patil2303&theme=dark&hide_border=false&layout=compact)
 
 ---
@@ -63,21 +62,6 @@ My goal is to secure an internship or full-time role at a product-based company.
 
 ## 🧪 Most Committed Languages
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patil2303&theme=github_dark)
-
----
-
-## 🔥 Consistency Tracker
-![GitHub Streak](https://streak-stats.demolab.com?user=patil2303&theme=dark)
-
----
-
-## 🧭 Monthly Coding Momentum
-![Monthly Commits](https://badges.pufler.dev/commits/monthly/patil2303)
-
----
-
-## 🌱 Developer Philosophy
-> **"Consistency beats intensity. Every commit is a step forward."**
 
 ---
 
